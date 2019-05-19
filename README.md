@@ -4,7 +4,7 @@
 
 ---
 
-- **For:** University Davis Coding Bootcamp
+- **For:** University of California Davis Coding Bootcamp
 - **Developer:** Loren Brown
 - **Deployment Date** 05/11/2019
 - **Built With** Node.js, Javascript
@@ -69,13 +69,3 @@ Liri is a command line application that takes user commands and queries from the
    Function takes the userInput (command) and the userQuery(song), and returns title, cast, release date, ratings, country of origin, original language and synopsis.
    ![image of movieThis](/images/movieThis.png)
    ![image of movie-this](/images/movie-this.png)
-
-4. do-this
-
-   _<command>_
-
-   This function is a wildcard that will randomly select one of the functions and produce a search. The only way to find out what it does is to try!
-
-
-    ![image of doThis](/images/doThis.png)
-    ![image of do-this](/images/do-this.png)
